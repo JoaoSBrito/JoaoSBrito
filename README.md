@@ -4,7 +4,6 @@
 - 🌱 Quero estudar me aprofundar em Node e React
 -->
 
-
 <div align="center">
   <a href="https://github.com/JoaoSBrito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
